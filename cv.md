@@ -1,4 +1,4 @@
-# Asanova Alina
+# Asanova Alina Asylbekovna
  
 ___ 
  
@@ -23,7 +23,7 @@ ___
 ___ 
  
 ## Education 
-- Bishkek College of Computer Systems and Technology (2022- 2024)
+- Bishkek College of Computer Systems and Technology (2022 - 2024)
  
 ___ 
 ## Languaches 
