@@ -15,7 +15,7 @@ ___
 ## Skills 
 * React 
 * Redux  
-* Typescript 
+* TypeScript 
 * HTML CSS SCSS JS 
 * TAILWIND
  
